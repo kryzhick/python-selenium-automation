@@ -1,0 +1,17 @@
+Amazon logo, search by XPATH, "//i[@aria-label='Amazon']"
+
+Email field, search by ID, "ap_email"
+
+Continue button, search bi ID, "continue"
+
+Need help link, search by XPATH, "//span[@class='a-expander-prompt']"
+
+Forgot your password link, search by ID, "8"
+
+Other issues with Sing-In link< search by ID, "ap-other-signin-issues-link"
+
+Create your Amazon account button, search by ID, "createAccountSubmit"
+
+Conditions of use link, search by XPATH, "//div[@class='a-section a-spacing-top-extra-large auth-footer']//a[@href='/gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&nodeId=508088']"
+
+Privacy Notice link, search by XPATH, "//div[contains(@class,'auth-footer')]//a[@href='/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&nodeId=468496']"
