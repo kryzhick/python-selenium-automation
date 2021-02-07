@@ -1,0 +1,21 @@
+Amazon logo, search by XPATH, "//i[@class='a-icon a-icon-logo']"
+
+Create account header, search by XPATH, //h1[@class='a-spacing-small'
+
+Your name field, search by ID, "//input[@id='ap_customer_name']"
+
+Email field, search bi ID, //input[@id='ap_email']
+
+Password field, search by CSS, "#ap_password"
+
+Password must be 6 char., search by CSS,"div.a-box.a-alert-inline.a-alert-inline-info.auth-inlined-information-message.a-spacing-top-mini"
+
+Re-entry password field,  search by CSS ID, "#ap_password_check"
+
+Create your Amazon account button, search by CSS ID "#continue"
+
+Conditions of use link, search by CSS, "a[href*='notification_condition_of_use?ie=UTF8&nodeId=508088']"
+
+Privacy Notice link, search by CSS "a[href*='er_notification_privacy_notice?ie=UTF8&nodeId=468496']"
+
+Sing in link, search by CSS, "a.a-link-emphasis"
