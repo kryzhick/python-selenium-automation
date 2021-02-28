@@ -3,4 +3,4 @@ Feature: Test for Amazon Hamburger Menu
 
   Scenario: User sees Amazon Hamberger icon
     Given Open Amazon page
-    Then Veryfy hamburger icon is visible
+    Then Verify hamburger icon is visible
